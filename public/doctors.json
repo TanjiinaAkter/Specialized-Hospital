@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "img": "/image/1_FjxmZTk.jpg",
+    "title": "Dr. Mahbubur Rahman Chowdhury",
+    "desc": "Consultant Phaco Surgeon ,Chairman,Bangladesh Eye Hospital & Institute",
+    "fees": 229.99,
+    "contact": 9666787878,
+    "email": " info@bdeyehospital.com",
+    "experience": "20years"
+  },
+  {
+    "id": 2,
+    "img": "/image/2_fZfiSDk.jpg",
+    "title": "Dr. Niaz Abdur-Rahman",
+    "desc": "Consultant Vitreo-Retina Surgeon Managing Director Bangladesh Eye Hospital & Institute",
+    "fees": 200,
+    "contact": 3858678787,
+    "email": "info@bdeyehospital.com",
+    "experience": "22years"
+  },
+  {
+    "id": 3,
+    "img": "/image/3._Dr._Md._Ali_Akbar-2.jpg",
+    "title": "Dr. Md. Ali Akbar",
+    "desc": "Consultant Glaucoma Specialist & Phaco Surgeon",
+    "fees": 149.99,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "20years"
+  },
+  {
+    "id": 4,
+    "img": "/image/4_EfDV83f.jpg",
+    "title": "Dr. Kamal Haider Khan",
+    "desc": "Consultant Glaucoma Specialist & Phaco Surgeon",
+    "fees": 200,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "24years"
+  },
+  {
+    "id": 5,
+    "img": "/image/5._Dr._Md._Tauhidur_Rahman_2_705VbH0.jpg",
+    "title": "Dr. Md. Tauhidur Rahman",
+    "desc": "Consultant Oculoplastics & Phaco Surgeon",
+    "fees": 300,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "30years"
+  },
+  {
+    "id": 6,
+    "img": "/image/3._Prof._Zafar_Khaled.jpg",
+    "title": "Professor Zafar Khaled",
+    "desc": "Consultant Ophthalmologist Phaco, LASIK & Refractive Surgeon",
+    "fees": 250,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "7years"
+  },
+  {
+    "id": 7,
+    "img": "/image/4._Dr._Kazi_Shabbir_Anwar.jpg",
+    "title": "Dr. Kazi Shabbir Anwar",
+    "desc": "Consultant Paediatric Ophthalmologist",
+    "fees": 420,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "6years"
+  },
+  {
+    "id": 8,
+    "img": "/image/5._Prof._Dr._Jalal_Ahmed.jpg",
+    "title": "Prof. Dr. Jalal Ahmed",
+    "desc": "Consultant Phaco, Lasik & Glaucoma Surgeon",
+    "fees": 120,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "20years"
+  },
+  {
+    "id": 9,
+    "img": "/image/8_ou8zJIT.jpg",
+    "title": "Dr. Mukti Rani Mitra",
+    "desc": "Consultant Orbit & Oculoplastic Surgeon",
+    "fees": 122,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "20years"
+  },
+
+  {
+    "id": 10,
+    "img": "/image/11._Dr._Sabrina_Rahmatullah.jpg",
+    "title": "Dr. Sabrina Rahmatullah",
+    "desc": "Consultant Vitreo Retina & Phaco Surgeon",
+    "fees": 190,
+    "contact": 9666787878,
+    "email": "info@bdeyehospital.com",
+    "experience": "10years"
+  }
+]

@@ -1,0 +1,38 @@
+.nav {
+  background: #fff;
+  width: 100%;
+  z-index: 999;
+  border-bottom: 2px solid var(--primary);
+}
+.nav .navbar {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+.nav .navbar li {
+  border-right: 1px solid black;
+  padding: 0rem 1rem;
+  color: var(--primary);
+}
+
+.nav .navbar li:hover {
+  background: var(--primary);
+  transition: all 0.5s;
+  color: #fff;
+}
+.nav .navbar li a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: block;
+  padding: 0.75rem 1rem;
+}
+
+.mobileLink {
+  text-decoration: none;
+  color: var(--primary);
+  display: block;
+  width: 100%;
+  padding: 0.5rem 2rem;
+}
